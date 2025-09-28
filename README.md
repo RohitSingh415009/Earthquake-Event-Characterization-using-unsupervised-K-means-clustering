@@ -1,2 +1,2 @@
-# Earthquake-Event-Characterization-using-unsupervised-K-means-clustering
-Seismic Project 
+# Data-Driven Clustering of Global Earthquake Events Using Unsupervised Machine Learning 
+
